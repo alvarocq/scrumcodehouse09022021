@@ -1,6 +1,3 @@
 ## Curso Scrum + Agile Ch
 
-
-Texto3
-
-
+Prueba alejandro
